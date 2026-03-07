@@ -12,7 +12,7 @@ El propósito de este ejercisio es aplicar conocimientos básicos de estructuras
 
 
 °Capturas de pantalla de la ejecución.
-<img width="1919" height="1079" alt="captura_ejecución" src="https://github.com/user-attachments/assets/8f297e0f-bf6f-4c1c-a823-1699ca6d2a6e" />
+
 
 
 °Contribuyente
